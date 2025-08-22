@@ -1,28 +1,11 @@
-Este projeto consiste em um aplicativo com interface moderna e responsiva, que oferece ao usuário uma tela de Configurações organizada em seções intuitivas.
+# Sample Snack app
 
-Principais funcionalidades presentes na tela de configurações:
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-Aparência:
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-Alternância entre tema claro e escuro, permitindo personalização da experiência visual.
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-Seleção de idioma através de um menu suspenso, com suporte multilíngue.
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-Notificações:
-
-Opção para ativar ou desativar notificações, garantindo maior controle sobre alertas recebidos.
-
-Dados:
-
-(Seção reservada para gerenciamento de dados, como cache, privacidade ou sincronização).
-
-
-Destaques do design:
-
-Estilo minimalista com contraste em preto e ícones coloridos para cada categoria.
-
-Componentes interativos como switches e dropdowns.
-
-Layout modular, dividido em cartões, proporcionando clareza e fácil navegação.
-
-Este projeto pode ser adaptado para aplicativos móveis (Android/iOS) e versões web, sendo ideal para apps de produtividade, e-commerce, redes sociais ou qualquer aplicação que necessite de personalização de preferências pelo usuário.
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
